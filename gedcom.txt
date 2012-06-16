@@ -1,0 +1,1736 @@
+
+<SUBM id= '@SUBM1@'>
+<NAME>
+Denis R. Reid 
+</ADDR>
+<CONT>Broadview>
+</CONT>
+<PHON>
+(216) 237-5364 
+</RIN>
+</>
+<INDI id= '@I1@'>
+<NAME>
+Edward_VII /Wettin/ 
+</TITL>
+<SEX>
+M 
+</BIRT>
+<DATE>Tuesday,>
+</PLAC>
+<DEAT>
+
+<DATE>Friday,>
+</PLAC>
+</BURI>
+<DATE>Friday,>
+</PLAC>
+<FAMS>
+@F2@ 
+</FAMC>
+<RIN>
+2 
+</>
+<INDI id= '@I2@'>
+</NAME>
+<TITL>
+Princess 
+</SEX>
+<BIRT>
+
+<DATE>Sunday,>
+</PLAC>
+</DEAT>
+<DATE>Friday,>
+</PLAC>
+<BURI>
+
+<PLAC>St.>
+</FAMS>
+<FAMC>
+@F24@ 
+</RIN>
+</>
+<INDI id= '@I3@'>
+<NAME>
+George_V /Windsor/ 
+</TITL>
+<SEX>
+M 
+</BIRT>
+</DATE>
+<PLAC>Marlborough>
+<CHR>
+
+</DATE>
+</DEAT>
+<DATE>Monday,>
+</PLAC>
+<BURI>
+
+<DATE>Tuesday,>
+</PLAC>
+</FAMS>
+<FAMC>
+@F2@ 
+</RIN>
+</>
+<INDI id= '@I4@'>
+<NAME>
+Mary_of_Teck (May) // 
+</TITL>
+<SEX>
+F 
+</BIRT>
+<DATE>Sunday,>
+</PLAC>
+<DEAT>
+
+<DATE>Tuesday,>
+</PLAC>
+</BURI>
+<DATE>Tuesday,>
+</PLAC>
+<FAMS>
+@F3@ 
+</FAMC>
+<RIN>
+5 
+</>
+<INDI id= '@I5@'>
+</NAME>
+<TITL>
+Duke of Windsor 
+</SEX>
+<BIRT>
+
+<DATE>Saturday,>
+</PLAC>
+</DEAT>
+<DATE>Sunday,>
+</PLAC>
+<BURI>
+
+<PLAC>Frogmore,Windsor,Berkshire,England>
+</FAMS>
+<FAMC>
+@F3@ 
+</RIN>
+</>
+<INDI id= '@I6@'>
+<NAME>
+Bessiewallis /Warfield/ 
+</SEX>
+<BIRT>
+
+</DATE>
+<PLAC>,,,U.S.A.>
+</DEAT>
+</DATE>
+<PLAC>Paris,,,France>
+<BURI>
+
+</PLAC>
+</FAMS>
+<FAMS>
+@F14@ 
+</FAMS>
+<FAMC>
+@F23@ 
+</RIN>
+</>
+<INDI id= '@I7@'>
+<NAME>
+George_VI /Windsor/ 
+</TITL>
+<SEX>
+M 
+</BIRT>
+<DATE>Saturday,>
+</PLAC>
+<DEAT>
+
+<DATE>Wednesday,>
+</PLAC>
+</BURI>
+<DATE>Tuesday,>
+</PLAC>
+<FAMS>
+@F4@ 
+</FAMC>
+<RIN>
+8 
+</>
+<INDI id= '@I8@'>
+</NAME>
+<TITL>
+Lady 
+</SEX>
+<BIRT>
+
+<DATE>Saturday,>
+</PLAC>
+</CHR>
+<DATE>Sunday,>
+<FAMS>
+@F4@ 
+</FAMC>
+<RIN>
+9 
+</>
+<INDI id= '@I9@'>
+</NAME>
+<TITL>
+Queen of England 
+</SEX>
+<BIRT>
+
+</DATE>
+<PLAC>17>
+</FAMS>
+<FAMC>
+@F4@ 
+</RIN>
+</>
+<INDI id= '@I10@'>
+<NAME>
+Philip /Mountbatten/ 
+</TITL>
+<SEX>
+M 
+</BIRT>
+</DATE>
+<PLAC>Isle>
+<FAMS>
+@F6@ 
+</FAMC>
+<RIN>
+11 
+</>
+<INDI id= '@I11@'>
+</NAME>
+<TITL>
+Prince 
+</SEX>
+<BIRT>
+
+</DATE>
+<PLAC>Buckingham,Palace,London,England>
+</CHR>
+</DATE>
+<PLAC>Buckingham,Palace,Music>
+<FAMS>
+@F8@ 
+</FAMC>
+<RIN>
+12 
+</>
+<INDI id= '@I12@'>
+</NAME>
+<TITL>
+Lady 
+</SEX>
+<BIRT>
+
+</DATE>
+<PLAC>Park>
+</CHR>
+</PLAC>
+<FAMS>
+@F8@ 
+</FAMC>
+<RIN>
+13 
+</>
+<INDI id= '@I13@'>
+</NAME>
+<TITL>
+Prince 
+</SEX>
+<BIRT>
+
+<DATE>Monday,>
+</PLAC>
+</CHR>
+<DATE>Wednesday,>
+</PLAC>
+<FAMC>
+@F8@ 
+</RIN>
+</>
+<INDI id= '@I14@'>
+<NAME>
+Henry Charles Albert/Windsor/ 
+</TITL>
+<SEX>
+M 
+</BIRT>
+<DATE>Saturday,>
+</PLAC>
+<FAMC>
+@F8@ 
+</RIN>
+</>
+<INDI id= '@I15@'>
+<NAME>
+Anne Elizabeth Alice/Windsor/ 
+</TITL>
+<SEX>
+F 
+</BIRT>
+<DATE>Tuesday,>
+</PLAC>
+<CHR>
+
+<DATE>Saturday,>
+</PLAC>
+</FAMS>
+<FAMC>
+@F6@ 
+</RIN>
+</>
+<INDI id= '@I16@'>
+<NAME>
+Mark Anthony Peter/Phillips/ 
+</TITL>
+<SEX>
+M 
+</BIRT>
+<DATE>Wednesday,>
+<FAMS>
+@F7@ 
+</FAMC>
+<RIN>
+17 
+</>
+<INDI id= '@I17@'>
+</NAME>
+<SEX>
+M 
+</BIRT>
+</DATE>
+<PLAC>St.>
+<CHR>
+
+</DATE>
+<PLAC>Music>
+</FAMC>
+<RIN>
+18 
+</>
+<INDI id= '@I18@'>
+</NAME>
+<SEX>
+F 
+</BIRT>
+</DATE>
+<PLAC>St.>
+<FAMC>
+@F7@ 
+</RIN>
+</>
+<INDI id= '@I19@'>
+<NAME>
+Andrew Albert Christian/Windsor/ 
+</TITL>
+<SEX>
+M 
+</BIRT>
+</DATE>
+<PLAC>Belgian>
+<FAMS>
+@F21@ 
+</FAMC>
+<RIN>
+20 
+</>
+<INDI id= '@I20@'>
+</NAME>
+<TITL>
+Duchess of York 
+</SEX>
+<BIRT>
+
+</DATE>
+<PLAC>27>
+</FAMS>
+<FAMC>
+@F22@ 
+</RIN>
+</>
+<INDI id= '@I21@'>
+<NAME>
+Beatrice Elizabeth Mary/Windsor/ 
+</TITL>
+<SEX>
+F 
+</BIRT>
+</DATE>
+<PLAC>Portland>
+<FAMC>
+@F21@ 
+</RIN>
+</>
+<INDI id= '@I22@'>
+<NAME>
+Eugenie Victoria Helena/Windsor/ 
+</TITL>
+<SEX>
+F 
+</BIRT>
+</DATE>
+<PLAC>London,England>
+<CHR>
+
+</DATE>
+<PLAC>Sandringham,England>
+</FAMC>
+<RIN>
+23 
+</>
+<INDI id= '@I23@'>
+</NAME>
+<TITL>
+Prince 
+</SEX>
+<BIRT>
+
+</DATE>
+<PLAC>Buckingham,Palace,London,England>
+</CHR>
+</DATE>
+<FAMC>
+@F6@ 
+</RIN>
+</>
+<INDI id= '@I24@'>
+<NAME>
+Margaret Rose /Windsor/ 
+</TITL>
+<SEX>
+F 
+</BIRT>
+<DATE>Thursday,>
+</PLAC>
+<FAMS>
+@F5@ 
+</FAMC>
+<RIN>
+25 
+</>
+<INDI id= '@I25@'>
+</NAME>
+<TITL>
+Earl of Snowdon 
+</SEX>
+<BIRT>
+
+<DATE>Friday,>
+</FAMS>
+<FAMS>
+@F44@ 
+</RIN>
+</>
+<INDI id= '@I26@'>
+<NAME>
+David Albert Charles/Armstrong-Jones/ 
+</TITL>
+<SEX>
+M 
+</BIRT>
+</DATE>
+<FAMC>
+@F5@ 
+</RIN>
+</>
+<INDI id= '@I27@'>
+<NAME>
+Sarah Frances Elizabeth/Armstrong-Jones/ 
+</TITL>
+<SEX>
+F 
+</BIRT>
+<DATE>Friday,>
+<FAMC>
+@F5@ 
+</RIN>
+</>
+<INDI id= '@I28@'>
+<NAME>
+Mary /Windsor/ 
+</TITL>
+<SEX>
+F 
+</BIRT>
+</DATE>
+<PLAC>York>
+<DEAT>
+
+</DATE>
+<PLAC>Harewood>
+</FAMS>
+<FAMC>
+@F3@ 
+</RIN>
+</>
+<INDI id= '@I29@'>
+<NAME>
+Henry George Charles/Lascelles/ 
+</TITL>
+<SEX>
+M 
+</BIRT>
+</DATE>
+<DEAT>
+
+<DATE>1947>
+</FAMS>
+<RIN>
+30 
+</>
+<INDI id= '@I30@'>
+</NAME>
+<TITL>
+Viscount 
+</SEX>
+<BIRT>
+
+</DATE>
+</FAMS>
+<FAMS>
+@F29@ 
+</FAMC>
+<RIN>
+31 
+</>
+<INDI id= '@I31@'>
+</NAME>
+<TITL>
+Countess 
+</SEX>
+<BIRT>
+
+<DATE>1926>
+</FAMS>
+<FAMC>
+@F47@ 
+</RIN>
+</>
+<INDI id= '@I32@'>
+<NAME>
+David /Lascelles/ 
+</TITL>
+<SEX>
+M 
+</BIRT>
+</DATE>
+<FAMS>
+@F34@ 
+</FAMC>
+<RIN>
+33 
+</>
+<INDI id= '@I33@'>
+</NAME>
+<SEX>
+F 
+</FAMS>
+<RIN>
+34 
+</>
+<INDI id= '@I34@'>
+</NAME>
+<TITL>
+Hon. 
+</SEX>
+<BIRT>
+
+<DATE>1976>
+</FAMC>
+<RIN>
+35 
+</>
+<INDI id= '@I35@'>
+</NAME>
+<TITL>
+Hon. 
+</SEX>
+<BIRT>
+
+</DATE>
+</FAMC>
+<RIN>
+36 
+</>
+<INDI id= '@I36@'>
+</NAME>
+<TITL>
+Hon. 
+</SEX>
+<BIRT>
+
+<DATE>1980>
+</FAMC>
+<RIN>
+37 
+</>
+<INDI id= '@I37@'>
+</NAME>
+<SEX>
+M 
+</BIRT>
+</DATE>
+<FAMC>
+@F34@ 
+</RIN>
+</>
+<INDI id= '@I38@'>
+<NAME>
+James /Lascelles/ 
+</TITL>
+<SEX>
+M 
+</BIRT>
+<DATE>1953>
+<FAMS>
+@F35@ 
+</FAMC>
+<RIN>
+39 
+</>
+<INDI id= '@I39@'>
+</NAME>
+<SEX>
+F 
+</FAMS>
+<RIN>
+40 
+</>
+<INDI id= '@I40@'>
+</NAME>
+<SEX>
+F 
+</BIRT>
+</DATE>
+<FAMC>
+@F35@ 
+</RIN>
+</>
+<INDI id= '@I41@'>
+<NAME>
+Rowan /Lascelles/ 
+</SEX>
+<BIRT>
+
+<DATE>1977>
+</FAMC>
+<RIN>
+42 
+</>
+<INDI id= '@I42@'>
+</NAME>
+<TITL>
+Hon. 
+</SEX>
+<BIRT>
+
+</DATE>
+</FAMS>
+<FAMC>
+@F27@ 
+</RIN>
+</>
+<INDI id= '@I43@'>
+<NAME>
+Julie /Bayliss/ 
+</SEX>
+<FAMS>
+@F36@ 
+</RIN>
+</>
+<INDI id= '@I44@'>
+<NAME>
+Thomas /Lascelles/ 
+</SEX>
+<BIRT>
+
+<DATE>1982>
+</FAMC>
+<RIN>
+45 
+</>
+<INDI id= '@I45@'>
+</NAME>
+<SEX>
+F 
+</BIRT>
+</DATE>
+<FAMC>
+@F36@ 
+</RIN>
+</>
+<INDI id= '@I46@'>
+<NAME>
+Patricia /Tuckwell/ 
+</SEX>
+<BIRT>
+
+<DATE>1923>
+</FAMS>
+<FAMS>
+@F46@ 
+</RIN>
+</>
+<INDI id= '@I47@'>
+<NAME>
+Mark /Lascelles/ 
+</TITL>
+<SEX>
+M 
+</BIRT>
+</DATE>
+<FAMC>
+@F29@ 
+</RIN>
+</>
+<INDI id= '@I48@'>
+<NAME>
+Gerald /Lascelles/ 
+</TITL>
+<SEX>
+M 
+</BIRT>
+<DATE>1924>
+<FAMS>
+@F28@ 
+</FAMS>
+<FAMC>
+@F10@ 
+</RIN>
+</>
+<INDI id= '@I49@'>
+<NAME>
+Angela /Dowding/ 
+</SEX>
+<BIRT>
+
+</DATE>
+</FAMS>
+<RIN>
+50 
+</>
+<INDI id= '@I50@'>
+</NAME>
+<SEX>
+M 
+</BIRT>
+<DATE>1953>
+<FAMS>
+@F38@ 
+</FAMC>
+<RIN>
+51 
+</>
+<INDI id= '@I51@'>
+</NAME>
+<SEX>
+F 
+</FAMS>
+<RIN>
+52 
+</>
+<INDI id= '@I52@'>
+</NAME>
+<SEX>
+F 
+</BIRT>
+</DATE>
+<FAMS>
+@F30@ 
+</RIN>
+</>
+<INDI id= '@I53@'>
+<NAME>
+Martin /Lascelles/ 
+</SEX>
+<BIRT>
+
+<DATE>1963>
+</FAMC>
+<RIN>
+54 
+</>
+<INDI id= '@I54@'>
+</NAME>
+<TITL>
+Duke 
+</SEX>
+<BIRT>
+
+</DATE>
+<PLAC>York>
+</DEAT>
+</DATE>
+<FAMS>
+@F11@ 
+</FAMC>
+<RIN>
+55 
+</>
+<INDI id= '@I55@'>
+</NAME>
+<TITL>
+Lady 
+</SEX>
+<BIRT>
+
+<DATE>Wednesday,>
+</PLAC>
+</FAMS>
+<FAMC>
+@F33@ 
+</RIN>
+</>
+<INDI id= '@I56@'>
+<NAME>
+William Henry Andrew/Windsor/ 
+</TITL>
+<SEX>
+M 
+</BIRT>
+<DATE>Thursday,>
+</PLAC>
+<CHR>
+
+<DATE>Sunday,>
+</PLAC>
+</DEAT>
+<DATE>Monday,>
+</PLAC>
+<FAMC>
+@F11@ 
+</RIN>
+</>
+<INDI id= '@I57@'>
+<NAME>
+Richard Alexander Walter/Windsor/ 
+</TITL>
+<SEX>
+M 
+</BIRT>
+<DATE>Saturday,>
+</PLAC>
+<CHR>
+
+<DATE>Friday,>
+</PLAC>
+</FAMS>
+<FAMC>
+@F11@ 
+</RIN>
+</>
+<INDI id= '@I58@'>
+<NAME>
+Birgitte of_Denmark /von_Deurs/ 
+</TITL>
+<SEX>
+F 
+</BIRT>
+<DATE>1947>
+<FAMS>
+@F13@ 
+</RIN>
+</>
+<INDI id= '@I59@'>
+<NAME>
+Alexander Patrick Gregers// 
+</TITL>
+<SEX>
+M 
+</BIRT>
+</DATE>
+<PLAC>St.>
+<CHR>
+
+</DATE>
+<PLAC>Barnwell>
+</FAMC>
+<RIN>
+60 
+</>
+<INDI id= '@I60@'>
+</NAME>
+<TITL>
+Lady 
+</SEX>
+<BIRT>
+
+</DATE>
+</CHR>
+<PLAC>Barnwell>
+<FAMC>
+@F13@ 
+</RIN>
+</>
+<INDI id= '@I61@'>
+<NAME>
+Rose Victoria Birgitte/Windsor/ 
+</TITL>
+<SEX>
+F 
+</BIRT>
+</DATE>
+<PLAC>St.>
+<CHR>
+
+</DATE>
+<PLAC>Barnwell>
+</FAMC>
+<RIN>
+62 
+</>
+<INDI id= '@I62@'>
+</NAME>
+<TITL>
+Duke of Kent 
+</SEX>
+<BIRT>
+
+</DATE>
+<PLAC>York>
+</DEAT>
+</DATE>
+<PLAC>Morven,,,Scotland>
+<FAMS>
+@F9@ 
+</FAMC>
+<RIN>
+63 
+</>
+<INDI id= '@I63@'>
+</NAME>
+<TITL>
+Princess 
+</SEX>
+<BIRT>
+
+</DATE>
+<PLAC>Athens,Greece>
+</DEAT>
+</DATE>
+<PLAC>Kensington,Palace,,England>
+<FAMS>
+@F9@ 
+</FAMC>
+<RIN>
+64 
+</>
+<INDI id= '@I64@'>
+</NAME>
+<TITL>
+Duke of Kent 
+</SEX>
+<BIRT>
+
+</DATE>
+<PLAC>3>
+</FAMS>
+<FAMC>
+@F9@ 
+</RIN>
+</>
+<INDI id= '@I65@'>
+<NAME>
+Katharine /Worsley/ 
+</TITL>
+<SEX>
+F 
+</BIRT>
+</DATE>
+<FAMS>
+@F18@ 
+</FAMC>
+<RIN>
+66 
+</>
+<INDI id= '@I66@'>
+</NAME>
+<TITL>
+Earl 
+</SEX>
+<BIRT>
+
+<DATE>Tuesday,>
+</CHR>
+</DATE>
+<PLAC>Buckingham,Palace,Music>
+<FAMS>
+@F41@ 
+</FAMC>
+<RIN>
+67 
+</>
+<INDI id= '@I67@'>
+</NAME>
+<SEX>
+F 
+</BIRT>
+</DATE>
+<PLAC>Canada>
+<FAMS>
+@F42@ 
+</FAMS>
+<FAMC>
+@F43@ 
+</RIN>
+</>
+<INDI id= '@I68@'>
+<NAME>
+Helen Marina Lucy/Windsor/ 
+</TITL>
+<SEX>
+F 
+</BIRT>
+</DATE>
+<CHR>
+
+<DATE>Tuesday,>
+</PLAC>
+</FAMC>
+<RIN>
+69 
+</>
+<INDI id= '@I69@'>
+</NAME>
+<TITL>
+Lord 
+</SEX>
+<BIRT>
+
+<DATE>Saturday,>
+</PLAC>
+</CHR>
+<PLAC>Private>
+<FAMC>
+@F18@ 
+</RIN>
+</>
+<INDI id= '@I70@'>
+<NAME>
+Alexandra /Windsor/ 
+</TITL>
+<SEX>
+F 
+</BIRT>
+</DATE>
+<FAMS>
+@F17@ 
+</FAMC>
+<RIN>
+71 
+</>
+<INDI id= '@I71@'>
+</NAME>
+<TITL>
+Hon. 
+</SEX>
+<BIRT>
+
+<DATE>1928>
+</FAMS>
+<RIN>
+72 
+</>
+<INDI id= '@I72@'>
+</NAME>
+<SEX>
+M 
+</BIRT>
+</DATE>
+<PLAC>Thatched>
+<FAMS>
+@F45@ 
+</FAMC>
+<RIN>
+73 
+</>
+<INDI id= '@I73@'>
+</NAME>
+<SEX>
+F 
+</FAMS>
+<RIN>
+74 
+</>
+<INDI id= '@I74@'>
+</NAME>
+<SEX>
+F 
+</BIRT>
+</DATE>
+<PLAC>Thatched>
+<FAMS>
+@F39@ 
+</FAMC>
+<RIN>
+75 
+</>
+<INDI id= '@I75@'>
+</NAME>
+<SEX>
+M 
+</BIRT>
+</DATE>
+<FAMS>
+@F39@ 
+</RIN>
+</>
+<INDI id= '@I76@'>
+<NAME>
+/Mowatt/ 
+</SEX>
+<BIRT>
+
+<DATE>Saturday,>
+</FAMC>
+<RIN>
+77 
+</>
+<INDI id= '@I77@'>
+</NAME>
+<TITL>
+Prince 
+</SEX>
+<BIRT>
+
+</DATE>
+<PLAC>Coppins,,England>
+</FAMS>
+<FAMC>
+@F9@ 
+</RIN>
+</>
+<INDI id= '@I78@'>
+<NAME>
+Marie-Christine /von_Reibnitz/ 
+</TITL>
+<SEX>
+F 
+</BIRT>
+</DATE>
+<PLAC>Czechoslovakia>
+<FAMS>
+@F32@ 
+</FAMS>
+<RIN>
+79 
+</>
+<INDI id= '@I79@'>
+</NAME>
+<TITL>
+Lord 
+</SEX>
+<BIRT>
+
+</DATE>
+<PLAC>St.>
+</CHR>
+</DATE>
+<PLAC>Chapel>
+<FAMC>
+@F31@ 
+</RIN>
+</>
+<INDI id= '@I80@'>
+<NAME>
+Gabriella Marina Alexandra/Windsor/ 
+</TITL>
+<SEX>
+F 
+</BIRT>
+</DATE>
+<PLAC>,,England>
+<CHR>
+
+</DATE>
+<PLAC>Chapel>
+</FAMC>
+<RIN>
+81 
+</>
+<INDI id= '@I81@'>
+</NAME>
+<TITL>
+Prince 
+</SEX>
+<BIRT>
+
+</DATE>
+<PLAC>York>
+</DEAT>
+</DATE>
+<PLAC>Wood>
+<BURI>
+
+</PLAC>
+</FAMC>
+<RIN>
+82 
+</>
+<INDI id= '@I82@'>
+</NAME>
+<BIRT>
+
+<DATE>Saturday,>
+</AGE>
+</BIRT>
+<DATE>Sunday,>
+<RIN>
+83 
+</NOTE>
+</CONT>
+<CONT>Lin>
+</CONC>
+<CONT>Line>
+</CONC>
+</>
+<INDI id= '@I83@'>
+<NAME>
+A2 B2 C2 
+</RIN>
+</>
+<INDI id= '@I84@'>
+<NAME>
+B2 C2 D2 
+</RIN>
+</>
+<INDI id= '@I85@'>
+<NAME>
+A2 B2 C2 D2 
+</RIN>
+</>
+<INDI id= '@I86@'>
+<NAME>
+A3B3 C3 D3 
+</RIN>
+</>
+<INDI id= '@I87@'>
+<NAME>
+A3 B3 C3D3 
+</RIN>
+</>
+<INDI id= '@I88@'>
+<NAME>
+A3B3 C3D3 
+</RIN>
+</>
+<INDI id= '@I89@'>
+<NAME>
+a3b3 c3d3 
+</RIN>
+</>
+<INDI id= '@I90@'>
+<NAME>
+A4B4C4D4 
+</RIN>
+</>
+<INDI id= '@I91@'>
+<NAME>
+a4b4c4d4 
+</RIN>
+</>
+<FAM id= '@F1@'>
+<CHIL>
+@I1@ 
+</DIV>
+<MARR>
+
+<DATE>Monday,>
+</PLAC>
+</RIN>
+</>
+<FAM id= '@F2@'>
+<HUSB>
+@I1@ 
+</WIFE>
+<CHIL>
+@I3@ 
+</MARR>
+<DATE>Tuesday,>
+</PLAC>
+<RIN>
+94 
+</>
+<FAM id= '@F3@'>
+</HUSB>
+<WIFE>
+@I4@ 
+</CHIL>
+<CHIL>
+@I7@ 
+</CHIL>
+<CHIL>
+@I54@ 
+</CHIL>
+<CHIL>
+@I81@ 
+</MARR>
+<DATE>Thursday,>
+</PLAC>
+<RIN>
+95 
+</>
+<FAM id= '@F4@'>
+</HUSB>
+<WIFE>
+@I8@ 
+</CHIL>
+<CHIL>
+@I24@ 
+</DIV>
+<MARR>
+
+<DATE>Thursday,>
+</RIN>
+</>
+<FAM id= '@F5@'>
+<HUSB>
+@I25@ 
+</WIFE>
+<CHIL>
+@I26@ 
+</CHIL>
+<DIV>
+Y 
+</MARR>
+</DATE>
+<PLAC>Westminster,Cathedral,London,England>
+<RIN>
+97 
+</>
+<FAM id= '@F6@'>
+</HUSB>
+<WIFE>
+@I9@ 
+</CHIL>
+<CHIL>
+@I15@ 
+</CHIL>
+<CHIL>
+@I23@ 
+</DIV>
+<MARR>
+
+</DATE>
+<PLAC>Westminster,Abbey,London,England>
+</RIN>
+</>
+<FAM id= '@F7@'>
+<HUSB>
+@I16@ 
+</WIFE>
+<CHIL>
+@I17@ 
+</CHIL>
+<DIV>
+N 
+</MARR>
+</DATE>
+<PLAC>Westminster,Abbey,London,England>
+<RIN>
+99 
+</>
+<FAM id= '@F8@'>
+</HUSB>
+<WIFE>
+@I12@ 
+</CHIL>
+<CHIL>
+@I14@ 
+</DIV>
+<MARR>
+
+</DATE>
+<PLAC>St.>
+</RIN>
+</>
+<FAM id= '@F9@'>
+<HUSB>
+@I62@ 
+</WIFE>
+<CHIL>
+@I64@ 
+</CHIL>
+<CHIL>
+@I77@ 
+</MARR>
+</DATE>
+<PLAC>Westminster,Abbey,London,England>
+<RIN>
+101 
+</>
+<FAM id= '@F10@'>
+</HUSB>
+<WIFE>
+@I28@ 
+</CHIL>
+<CHIL>
+@I48@ 
+</MARR>
+</DATE>
+<PLAC>Westminster,Abbey,London,England>
+<RIN>
+102 
+</>
+<FAM id= '@F11@'>
+</HUSB>
+<WIFE>
+@I55@ 
+</CHIL>
+<CHIL>
+@I57@ 
+</MARR>
+</DATE>
+<PLAC>Buckingham,Palace,London,England>
+<RIN>
+103 
+</>
+<FAM id= '@F12@'>
+</HUSB>
+<WIFE>
+@I6@ 
+</DIV>
+<MARR>
+
+</DATE>
+<PLAC>Chateau>
+</RIN>
+</>
+<FAM id= '@F13@'>
+<HUSB>
+@I57@ 
+</WIFE>
+<CHIL>
+@I59@ 
+</CHIL>
+<CHIL>
+@I61@ 
+</MARR>
+</DATE>
+<RIN>
+105 
+</>
+<FAM id= '@F14@'>
+</WIFE>
+<DIV>
+Y 
+</MARR>
+<DATE>1916>
+<RIN>
+106 
+</>
+<FAM id= '@F15@'>
+</WIFE>
+<DIV>
+Y 
+</MARR>
+</DATE>
+<RIN>
+107 
+</>
+<FAM id= '@F16@'>
+</CHIL>
+<MARR>
+
+<DATE>1903>
+</RIN>
+</>
+<FAM id= '@F17@'>
+<HUSB>
+@I71@ 
+</WIFE>
+<CHIL>
+@I72@ 
+</CHIL>
+<MARR>
+
+</DATE>
+<PLAC>,,England>
+</RIN>
+</>
+<FAM id= '@F18@'>
+<HUSB>
+@I64@ 
+</WIFE>
+<CHIL>
+@I66@ 
+</CHIL>
+<CHIL>
+@I69@ 
+</MARR>
+</DATE>
+<RIN>
+110 
+</>
+<FAM id= '@F19@'>
+</CHIL>
+<RIN>
+111 
+</>
+<FAM id= '@F20@'>
+</CHIL>
+<RIN>
+112 
+</>
+<FAM id= '@F21@'>
+</HUSB>
+<WIFE>
+@I20@ 
+</CHIL>
+<CHIL>
+@I22@ 
+</MARR>
+<DATE>Wednesday,>
+</PLAC>
+<RIN>
+113 
+</>
+<FAM id= '@F22@'>
+</CHIL>
+<DIV>
+Y 
+</MARR>
+<DATE>Thursday,>
+</PLAC>
+<RIN>
+114 
+</>
+<FAM id= '@F23@'>
+</CHIL>
+<RIN>
+115 
+</>
+<FAM id= '@F24@'>
+</CHIL>
+<MARR>
+
+<DATE>1842>
+</RIN>
+</>
+<FAM id= '@F25@'>
+<CHIL>
+@I63@ 
+</MARR>
+</DATE>
+<RIN>
+117 
+</>
+<FAM id= '@F26@'>
+</CHIL>
+<DIV>
+Y 
+</MARR>
+<DATE>1954>
+</PLAC>
+<RIN>
+118 
+</>
+<FAM id= '@F27@'>
+</HUSB>
+<WIFE>
+@I31@ 
+</CHIL>
+<CHIL>
+@I38@ 
+</CHIL>
+<DIV>
+Y 
+</MARR>
+<DATE>1949>
+<RIN>
+119 
+</>
+<FAM id= '@F28@'>
+</HUSB>
+<WIFE>
+@I49@ 
+</CHIL>
+<DIV>
+Y 
+</MARR>
+</DATE>
+<RIN>
+120 
+</>
+<FAM id= '@F29@'>
+</HUSB>
+<WIFE>
+@I46@ 
+</CHIL>
+<MARR>
+
+<DATE>1967>
+</RIN>
+</>
+<FAM id= '@F30@'>
+<HUSB>
+@I48@ 
+</WIFE>
+<CHIL>
+@I53@ 
+</MARR>
+</DATE>
+<RIN>
+122 
+</>
+<FAM id= '@F31@'>
+</HUSB>
+<WIFE>
+@I78@ 
+</CHIL>
+<CHIL>
+@I80@ 
+</MARR>
+<DATE>Friday,>
+</PLAC>
+<RIN>
+123 
+</>
+<FAM id= '@F32@'>
+</WIFE>
+<DIV>
+Y 
+</MARR>
+<DATE>Sunday,>
+<RIN>
+124 
+</>
+<FAM id= '@F33@'>
+</CHIL>
+<RIN>
+125 
+</>
+<FAM id= '@F34@'>
+</HUSB>
+<WIFE>
+@I33@ 
+</CHIL>
+<CHIL>
+@I35@ 
+</CHIL>
+<CHIL>
+@I37@ 
+</MARR>
+</DATE>
+<RIN>
+126 
+</>
+<FAM id= '@F35@'>
+</HUSB>
+<WIFE>
+@I39@ 
+</CHIL>
+<CHIL>
+@I41@ 
+</MARR>
+<DATE>1973>
+<RIN>
+127 
+</>
+<FAM id= '@F36@'>
+</HUSB>
+<WIFE>
+@I43@ 
+</CHIL>
+<CHIL>
+@I45@ 
+</MARR>
+</DATE>
+<RIN>
+128 
+</>
+<FAM id= '@F37@'>
+</CHIL>
+<RIN>
+129 
+</>
+<FAM id= '@F38@'>
+</HUSB>
+<WIFE>
+@I51@ 
+</MARR>
+<DATE>1979>
+<RIN>
+130 
+</>
+<FAM id= '@F39@'>
+</HUSB>
+<WIFE>
+@I74@ 
+</CHIL>
+<MARR>
+
+</DATE>
+</RIN>
+</>
+<FAM id= '@F40@'>
+<CHIL>
+@I16@ 
+</RIN>
+</>
+<FAM id= '@F41@'>
+<HUSB>
+@I66@ 
+</WIFE>
+<MARR>
+
+<DATE>Tuesday,>
+</RIN>
+</>
+<FAM id= '@F42@'>
+<WIFE>
+@I67@ 
+</DIV>
+<RIN>
+134 
+</>
+<FAM id= '@F43@'>
+</CHIL>
+<DIV>
+Y 
+</RIN>
+</>
+<FAM id= '@F44@'>
+<HUSB>
+@I25@ 
+</MARR>
+</DATE>
+<RIN>
+136 
+</>
+<FAM id= '@F45@'>
+</HUSB>
+<WIFE>
+@I73@ 
+</MARR>
+<DATE>AFT>
+<RIN>
+137 
+</>
+<FAM id= '@F46@'>
+</WIFE>
+<RIN>
+138 
+</>
+<FAM id= '@F47@'>
+</CHIL>
+<RIN>
+139 
+</SOUR>
+</PAGE>
+</>
+<SOUR id= '@S1@'>
+<TEXT>
+Hello 
+</>
+< id= 'TRLR'>

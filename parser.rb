@@ -4,7 +4,13 @@ require 'parser_helper'
 
 file = File.new('input.txt', 'r')
 
-new_file = File.new('gedcom.txt', 'w')
+
+
+new_file = 'gedcom.txt'
+
+File.open(new_file,'w') do |f2|
+  f2.puts ""
+end
 
 token = Hash.new
 
@@ -18,17 +24,17 @@ while line = file.gets
   temp_storage = line.split unless line==""
 
   level = temp_storage[0] unless line==""
+
+  level = level.to_i
   
   if(line!="")
-    File.open(new_file) do |f2|
       if(token[level]==true)
-        add_end_tag(level,f2,temp_storage)
+        add_end_tag(level,temp_storage,new_file)
         token[level] = false
       else
-        add_start_tag(level,f2,temp_storage)
+        add_start_tag(level,temp_storage,new_file)
         token[level] = true
       end
-    end
   end
 end
 
