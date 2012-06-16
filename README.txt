@@ -1,3 +1,3 @@
-This is a GEDCOM parser to practive ruby.
+This is a GEDCOM parser to practice ruby.
 
 Irtefa
