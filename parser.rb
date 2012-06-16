@@ -12,7 +12,9 @@ File.open(new_file,'w') do |f2|
   f2.puts ""
 end
 
-token = Hash.new
+token = Array.new
+
+holder = Hash.new
 
 next_line_flag = false
 
@@ -23,16 +25,14 @@ token[3] = false
 while line = file.gets
   temp_storage = line.split unless line==""
 
-  level = temp_storage[0] unless line==""
+  level = temp_storage[0].to_i unless line==""
 
-  level = level.to_i
-  
   if(line!="")
       if(token[level]==true)
-        add_end_tag(level,temp_storage,new_file)
+        add_end_tag(level,temp_storage,new_file,holder)
         token[level] = false
       else
-        add_start_tag(level,temp_storage,new_file)
+        add_start_tag(level,temp_storage,new_file,holder)
         token[level] = true
       end
   end
