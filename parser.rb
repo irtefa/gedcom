@@ -16,6 +16,8 @@ token = Array.new
 
 holder = Hash.new
 
+
+
 next_line_flag = false
 
 token[0] = false
